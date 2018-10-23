@@ -1,2 +1,5 @@
 # hello-world
-This is a test repo to get started with GitHub.
+
+Hello World!
+
+I'm Ania, a beginner programmer. This is me playing around with GitHub for the first time, following their "Hello World" guide.
